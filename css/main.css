@@ -1875,7 +1875,7 @@ a
 {
 .discount .form
 {
-    flex-basis: 100%;
+    margin: 10px auto;
 }
 }
 .discount .form .input
